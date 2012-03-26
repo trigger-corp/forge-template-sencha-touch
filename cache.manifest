@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# 1faaa496c4d3ccfeb137c066bb1664c02a6fe08e
+index.html
+# da8924e214c2d0868b4eb090d809a1070be9444c
+carregions.json
+# b2a1f433649d5699af29ed0fd44bc4154a43a32d
+test.json
+# 8947d143b2067998772e6c948d665f200e3b5775
+userData.json
+# 3a3ab4e5525ca9bf17b8bdea99228cc12c1a1499
+resources/images/circle-touch.png
+# ba21388863a4f54214143eaec00e9fa7a0be777c
+resources/images/circle-performance.png
+# 2dcb42da208a4c9d70e660c27477675bce822ffc
+resources/images/circle-architecture.png
+# 23c035542996b791c5335f5ffd5623682fa048c8
+resources/images/circle-native.png
+# 8bd741c99411e5f00a11b60fba8c565a01b0ac13
+resources/images/circle-learn.png
+# 3a3ab4e5525ca9bf17b8bdea99228cc12c1a1499
+resources/images/circle-touch.png
+# c70a2b64d35aa429c5ba3530372062c74a6c56e7
+resources/images/noise.gif
+# be80e064d548baf1a15ce4db8ea9a3f8022abccb
+resources/images/sencha_small.png
+
+FALLBACK:
+
+NETWORK:
+*
