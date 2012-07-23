@@ -1,6 +1,6 @@
 {
 	"author": "Trigger", 
-	"config_version": "2", 
+	"config_version": "3", 
 	"description": "Sencha Kitchen Sink ready to run on Forge.", 
 	"modules": {
 		"contact": true, 
@@ -22,6 +22,6 @@
 		"tools": true
 	}, 
 	"name": "Sencha 2.0 Kitchen Sink", 
-	"platform_version": "v1.3", 
+	"platform_version": "v1.4", 
 	"version": "1.0"
 }
